@@ -1,1 +1,1 @@
-# AbhishekMachagiri-Case-Studies
+# Case-Studies
